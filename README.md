@@ -5,5 +5,7 @@
 
 Note:
 1. Fill variables.tf with actual values
-2. Creating and defining network space is omitted 
+2. Creating and defining network space,ssh key gen is omitted 
+3. Terraform version used is Terraform v1.2.4 on windows_amd64
+4. Code is validated using terraform validate only, Apply cant be done becasue of AWS account issues
 
